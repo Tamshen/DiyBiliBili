@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         bilibili 视频评论区用户标签
+// @name         bilibili 视频评论区关键字用户标签
 // @namespace    com.bilibili.CustomizeCommentUserTag
 // @version      1.0
 // @description  B站评论区自定义标注用户标签，依据是动态里是否有关键字的相关内容（参考：https://greasyfork.org/zh-CN/scripts/450720-%E5%8E%9F%E7%A5%9E%E7%8E%A9%E5%AE%B6%E6%8C%87%E7%A4%BA%E5%99%A8）
