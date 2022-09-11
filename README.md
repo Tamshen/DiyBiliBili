@@ -11,3 +11,4 @@ DIY你的哔哩哔哩
 
 安装：[点我](https://github.com/Tamshen/DiyBiliBili/raw/main/com.bilibili.CustomizeCommentUserTag.user.js)
 
+效果：![效果图你看不见](https://github.com/Tamshen/DiyBiliBili/blob/main/images/com.bilibili.CustomizeCommentUserTag_01.jpg)
