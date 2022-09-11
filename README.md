@@ -9,6 +9,6 @@ DIY你的哔哩哔哩
 
 参考：[原神玩家指示器 by xulaupuz](https://greasyfork.org/zh-CN/scripts/450720-%E5%8E%9F%E7%A5%9E%E7%8E%A9%E5%AE%B6%E6%8C%87%E7%A4%BA%E5%99%A8)
 
-安装：[点我](https://github.com/Tamshen/DiyBiliBili/raw/main/com.bilibili.CustomizeCommentUserTag.user.js)
+安装：[点我](https://github.com/Tamshen/DiyBiliBili/raw/main/script/com.bilibili.CustomizeCommentUserTag.user.js)
 
 效果：![效果图你看不见](https://github.com/Tamshen/DiyBiliBili/blob/main/images/com.bilibili.CustomizeCommentUserTag_01.jpg)
