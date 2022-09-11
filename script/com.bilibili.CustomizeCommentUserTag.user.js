@@ -15,7 +15,7 @@
 
 (function() {
     'use strict';
-    //配置JSON
+    //配置JSON 更细记得保存JSON
     const json = `
 [
     {
